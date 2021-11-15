@@ -12,10 +12,10 @@ Gambar yang akan dienkripsi ditempatkan pada satu folder dengan nama yang nanti 
 - AES_Encrypt_new.ipynb
 - AES_Decrypt_new.ipynb
 - gambar
- - enc
+ * enc
   - IMG1.JPG
   - ...JPG
- - dec
+ * dec
   - - IMG1.JPG
   - ...JPG
 
