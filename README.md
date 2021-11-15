@@ -8,6 +8,16 @@ gambar medis
 
 ## Struktur Dataset
 Gambar yang akan dienkripsi ditempatkan pada satu folder dengan nama yang nanti nya akan digunakan saat tahap mengubah path
+- Key_Generator.ipynb
+- AES_Encrypt_new.ipynb
+- AES_Decrypt_new.ipynb
+- gambar
+ - enc
+  - IMG1.JPG
+  - ...JPG
+ - dec
+  - - IMG1.JPG
+  - ...JPG
 
 ## Tahapan Penggunaan Program
 Terdapat tiga tahapan dalam menggunakan program
